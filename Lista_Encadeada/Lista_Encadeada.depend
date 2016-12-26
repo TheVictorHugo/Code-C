@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482728151 source:c:\users\victor hugo\documents\github\code-c\lista_encadeada\code.c
+	<stdio.h>
+	<stdlib.h>
+	"code.h"
+
+1482727886 c:\users\victor hugo\documents\github\code-c\lista_encadeada\code.h
+
